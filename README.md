@@ -1,8 +1,6 @@
 # DATA 102, Fall 2022, Final Project
 An analysis of mothers' smoking habit, personal data, and other prenatal conditions on babies' weights.
 
-Authors: Wenhao Pan, Ziyue Deng, Anni Kang, Huanzhong Jia
-
 ## Introduction
 
 In this project, we use the US births 2018 dataset to analyze what may be influencing babies' birth weights. Causal inference and GLMs (generalized linear models) techniques are employed to help us obtain quantitative data.  
